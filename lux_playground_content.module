@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Lux Playground Content feature.
+ */
+
+include_once 'lux_playground_content.features.inc';
